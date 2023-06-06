@@ -1,3 +1,4 @@
+![Screenshot from 2023-06-06 23-24-03](https://github.com/PakizeBozkurt/clock/assets/97640517/c13fc307-6a33-4cd4-b2ca-17430ad35f2d)
 # Mini Clock
 
 A simple digital clock application built using Python and the Tkinter library.
