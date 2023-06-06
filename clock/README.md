@@ -28,3 +28,5 @@ The Mini Clock application displays the current time in a digital format. It uti
 
    ```bash
    python3 main.py
+
+Enjoy it!
